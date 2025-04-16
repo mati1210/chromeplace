@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Name": "chromeplace",
+        "Description": "places chrome",
+        "Icon": "preferences-system-windows",
+        "Authors": [
+            {
+                "Email": "matheuz1210@gmail.com",
+                "Name": "mat"
+            }
+        ],
+        "Id": "chromeplace",
+        "Version": "1.0",
+        "License": "MPL-2.0",
+        "Website": "https://github.com/mati1210/chromeplace"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
